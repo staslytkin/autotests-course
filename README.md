@@ -1,0 +1,2 @@
+# autotests-course
+student project
